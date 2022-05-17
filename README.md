@@ -1,8 +1,5 @@
--  Hello! 👋🏽
--  Second year Computer Science Undergrad here :)
--  I’m currently learning programming fundamentals and its applications.
--  Often found decomposing Mathematics with a can of Thums Up.
--  Open to opportunities and collaborations to learn, grow and excel together.
+-  Second year Computer Science Undergrad.
+-  Exploring data, algorithms and mathematics until next time. :`)
 
 
 <!---
