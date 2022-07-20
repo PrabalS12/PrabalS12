@@ -1,4 +1,4 @@
--  Second year Computer Science Undergrad.
+-  Third year Computer Science Undergrad.
 -  Exploring data, algorithms and mathematics until next time. :`)
 
 
