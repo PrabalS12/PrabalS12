@@ -1,5 +1,5 @@
--  Computer Science Undergrad.
--  Exploring data, algorithms and mathematics until next time. :`)
+-  Data Scientist, Stylumia
+-  Bayesian half of me, is still unsure of the math. :`)
 
 
 <!---
